@@ -1,4 +1,4 @@
-# 🦴 OSSOS_NOVO
+# OSSOS_NOVO
 
 Estimativa de **estatura** de populações pretéritas do **Pantanal brasileiro** a partir do **comprimento de ossos longos** (fêmur, tíbia, úmero, rádio e ulna).
 
@@ -42,7 +42,8 @@ Estatura (cm) = (a + b × x/10) × 0.996 + 11.7      (x = comprimento em mm)
 - Sexo indeterminado: média das equações masculina e feminina.
 - `esta.media` é a média das estimativas disponíveis de cada indivíduo.
 
-Fonte das equações: *[inserir referência]*
+Fonte das equações: **SCIULLI, W. P.; HETLAND, M. B. Stature estimation for prehistoric ohio valley nativeamerican populations base on revisions of the fully technique. Archeology of Eastern North
+America. v.35, p. 105-113. 2007.**
 
 ## Resultado resumido
 
@@ -51,11 +52,3 @@ Estatura média da amostra: **159,4 cm** (DP = 7,2; 145,4 a 178,1 cm). Teste de 
 ## Cuidados
 
 Amostra pequena e com ossos preservados de forma desigual; equações podem não refletir a população estudada. Os remanescentes humanos devem ser tratados conforme a legislação e as normas das instituições de guarda.
-
-## Requisitos
-
-R e `ggplot2` (gráficos salvos com a versão 3.5.1).
-
-## Citação e licença
-
-*[Como citar]* · *[Licença]* · *[Contato]*
